@@ -554,7 +554,6 @@ StephDigital
 - [Britta23714](https://github.com/Britta23714)
 - [Lakshay Yadav](https://github.com/Lucky0108)
 - [Mohan Periasami](https://github.com/mperiasa2)
-- [Chira Levy](https://github.com/chiralevy)
 - [Raj kumar Suthar](https://github.com/raajsuthar)
 - [Xiwen Zhang](https://github.com/xiwen1995)
 - [Tapan Karecha](https://github.com/tapank)
